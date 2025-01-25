@@ -1,20 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheOldestBrother&layout=compact&theme=calm_pink)
+## 👋 Hi there, I'm TheOldestBrother 👋
+___
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheOldestBrother)
+I'm a studying to become Software Engineer! I love to understand how programs are made to better my knowledge and better myself in the process.
 
-<!--
-**TheOldestBrother/TheOldestBrother** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <p align="right">
+  <a href="https://github.com/TheOldestBrother">
+    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=TheOldestBrother">
+  </a>
+</p> -->
 
-Here are some ideas to get you started:
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like to work on various projects with differents languages. I prefer a more low level oriented programing than using big frameworks.
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheOldestBrother&layout=compact&theme=calm_pink) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheOldestBrother&theme=calm_pink)
